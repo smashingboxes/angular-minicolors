@@ -1,3 +1,6 @@
+# Note about this fork:
+This fork was made to use https://github.com/smashingboxes/jquery-minicolors instead of the original jquery-minicolors repo.
+
 angular-minicolors
 ==================
 
